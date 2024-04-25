@@ -1,5 +1,5 @@
-# Develop By : RAJKIRAN.J
-# Reg No : 212222043006
+# Develop By : dinesh.M
+# Reg No : 212222043002
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
