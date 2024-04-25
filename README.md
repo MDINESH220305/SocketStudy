@@ -89,7 +89,7 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 # OUTPUT:
-![1](https://github.com/Rajkiran276/SocketStudy/assets/147471453/de0a35c9-3a86-4e6c-94d4-587458be9b2d)
+![cnex1](https://github.com/MDINESH220305/SocketStudy/assets/162429215/de748ace-3b65-46e6-a571-8fd4c2e6cb3c)
 
 
 ## Result:
